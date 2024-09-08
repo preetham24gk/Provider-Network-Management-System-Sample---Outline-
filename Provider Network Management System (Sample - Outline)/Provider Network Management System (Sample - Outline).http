@@ -1,0 +1,6 @@
+@Provider_Network_Management_System__Sample___Outline__HostAddress = http://localhost:5044
+
+GET {{Provider_Network_Management_System__Sample___Outline__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
